@@ -1,6 +1,12 @@
+List of Future Assignments
+
 Hello
 _______________________________________________________
 My Name is Darrin Kerchner
+
+EMail Address
+_______________________________________________________
+dkerchner@my.waketech.edu
 
 Occupation
 ________________________________________________________
