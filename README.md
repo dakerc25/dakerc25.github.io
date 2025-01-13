@@ -1,1 +1,16 @@
-# dakerc25.github.io
+Hello
+_______________________________________________________
+My Name is Darrin Kerchner
+
+Occupation
+________________________________________________________
+Pricipal Solutions Architect at SAS Institute
+
+Education
+________________________________________________________
+Currenly Enrolled at Wake Tech for Cyber Security
+Previously: Bachelor of Engineering Maritime College
+
+Hobbies
+_________________________________________________________
+Playing Golf
